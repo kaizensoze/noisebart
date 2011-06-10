@@ -1,0 +1,2 @@
+IRC bot that, giving [abbreviated] BART origin/destination pair, outputs the next few soonest times
+a train will arrive at the origin.
